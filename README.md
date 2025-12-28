@@ -14,9 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-👋 Hi, I'm Richard Munthali
+<h1>👋 Hi, I'm Richard Munthali </h1>
 
-💼 Full-Stack Developer | Mobile Developer | ICT Student at Mzuzu University
+<h3>💼 Full-Stack Developer | Mobile Developer | ICT Student at Mzuzu University</h3>
 
 I'm passionate about crafting efficient, scalable applications across web and mobile platforms. With expertise spanning frontend, backend, and native mobile development, I build solutions that combine technical excellence with intuitive user experiences.
 🌍 Let's Connect!
@@ -46,8 +46,17 @@ Cloud & DevOps
 <p> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> </p>
 Tools & Workflow
 <p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> </p>
-📊 GitHub Analytics
-<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Ritchie16&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ritchie16&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=8&exclude_repo=github-readme-stats" /> <img src="https://streak-stats.demolab.com/?user=Ritchie16&theme=radical&hide_border=true&background=00000000" /></div>
+## 📊 GitHub Analytics
+
+<div align="center">
+  
+![Richard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritchie16&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritchie16&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=8&exclude_repo=github-readme-stats)
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=Ritchie16&theme=radical&hide_border=true&background=00000000)
+
+</div>
 💼 Development Philosophy
 
     Clean Architecture: Building maintainable, scalable applications
