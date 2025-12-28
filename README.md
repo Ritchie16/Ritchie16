@@ -1,4 +1,4 @@
-## Hi there 👋
+<!--## Hi there 👋 -->
 
 <!--
 **Ritchie16/Ritchie16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,51 +14,123 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-Hi there 👋, I'm Richard Munthali
-Profile Views
+👨‍💻 Richard Munthali | Full-Stack & Mobile Developer
+<div align="center">
+
+https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white
+https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white
+
+Building scalable digital experiences across web, mobile, and cloud platforms
+</div>
 🚀 About Me
-Systems and Software Developer | ICT Student at Mzuzu University
-I'm a passionate developer based in Mzuzu City, Malawi, specializing in building efficient systems and scalable applications. With a strong foundation in full-stack development, I create impactful solutions using modern technologies. Currently pursuing a Bachelor's in Information and Communication Technology, I'm focused on web, mobile, and backend projects while contributing to open source.
 
-🌍 Based in Mzuzu City, Malawi
-🔭 Working on food delivery apps and personal projects
-🌱 Learning advanced web and mobile development technologies
-👯 Open to collaborations on innovative software solutions
-💬 Ask me about React Native, Node.js, or database design
-⚡ Fun fact: I enjoy solving real-world problems with code
+I'm a passionate Full-Stack Developer specializing in modern web technologies, cross-platform mobile development with Expo, and cloud infrastructure. With expertise spanning from frontend interfaces to backend architecture, I create performant, scalable, and user-centric applications.
+typescript
 
-💻 Skills & Technologies
-Languages
-https://skillicons.dev/icons?i=js,ts,java,php,c,html,css
-Frontend
-https://skillicons.dev/icons?i=react,nextjs,tailwind,framer,vite
-Backend
-https://skillicons.dev/icons?i=nodejs,express,laravel
-Mobile
-https://skillicons.dev/icons?i=reactnative,kotlin
-- Expo, Jetpack Compose
-Databases
-https://skillicons.dev/icons?i=mongodb,mysql,postgres,firebase
-- Appwrite
-Tools & Platforms
-https://skillicons.dev/icons?i=git,github,vscode,webpack,linux
-- Data Structures & Algorithms, Responsive Design
-💼 Projects
+const developer = {
+  name: "Richard Munthali",
+  role: "Full-Stack & Mobile Developer",
+  location: "Available Worldwide",
+  status: "Open to innovative projects & collaborations",
+  specialties: [
+    "React/Next.js Ecosystems",
+    "Expo & React Native Mobile Apps",
+    "TypeScript Development",
+    "Cloud Architecture (AWS/Vercel)",
+    "Real-time Applications",
+    "UI/UX Implementation"
+  ]
+};
 
-React Portfolio Website: Modern site with React, Tailwind, and Framer Motion. Repo | Demo
-Inventory Management System: Java-based app for stock tracking. Repo
-Food Delivery App: Multi-vendor system using React Native, Expo, and PostgreSQL. (In progress)
-Data Structures & Algorithms: Java implementations. Repo
-Digital Clock: Simple C application. Repo
-Aunt Joy Restaurant Landing Page: Contributed to restaurant site. Repo
+🛠️ Technology Stack
+Frontend Development
+<p align="left"> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" /> <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" /> <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL" /> </p>
+Mobile Development (React Native, Expo and Kotlin/JetPack Compose)
+<p align="left"> <img src="https://img.shields.io/badge/Expo-000020?style=for-the-badge&logo=expo&logoColor=white" alt="Expo" /> <img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React Native" /> <img src="https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white" alt="Android" /> <img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white" alt="iOS" /> </p>
+Backend & Database
+<p align="left"> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" /> <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" /> <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socket.io&logoColor=white" alt="Socket.io" /> </p>
+Cloud & DevOps
+<p align="left"> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS" /> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" /> <img src="https://img.shields.io/badge/NGINX-009639?style=for-the-badge&logo=nginx&logoColor=white" alt="NGINX" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" /> </p>
+Tools & Workflow
+<p align="left"> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma" /> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" /> <img src="https://img.shields.io/badge/Jest-C21325?style=for-the-badge&logo=jest&logoColor=white" alt="Jest" /> </p>
+📱 Expo Mobile Development Focus
+Mobile Development Philosophy
+javascript
 
-📊 GitHub Stats
-Richard's GitHub Stats
-Top Languages
-🌐 Connect with Me
+const mobileDevelopment = {
+  approach: "Expo-first for rapid development",
+  platforms: ["iOS", "Android", "Web (PWA)"],
+  specialties: [
+    "Cross-platform consistency",
+    "Native module integration",
+    "Over-the-air updates",
+    "Push notifications",
+    "App Store deployment",
+    "Performance optimization"
+  ],
+  tools: [
+    "Expo Router",
+    "Expo Updates",
+    "EAS Build",
+    "Expo Notifications",
+    "React Navigation",
+    "NativeWind"
+  ]
+};
 
-GitHub
-LinkedIn
-Portfolio
 
-Thanks for visiting! 🚀
+
+📊 GitHub Analytics
+<div align="center">
+
+https://github-readme-stats.vercel.app/api?username=Ritchie16&show_icons=true&theme=radical&hide_border=true&bg_color=00000000
+https://github-readme-stats.vercel.app/api/top-langs/?username=Ritchie16&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=8
+https://streak-stats.demolab.com/?user=Ritchie16&theme=radical&hide_border=true&background=00000000
+</div>
+🎯 Featured Projects
+🌐 Portfolio Website
+
+
+
+💼 Professional Approach
+Development Principles
+
+    Clean Architecture – Scalable, maintainable codebases
+
+    Performance Optimization – Lighthouse scores 95+
+
+    Security First – Best practices implementation
+
+    User-Centric Design – Intuitive, accessible interfaces
+
+    Continuous Integration – Automated testing & deployment
+
+Mobile Development Strategy
+
+    Cross-Platform Efficiency – Single codebase for iOS/Android
+
+    Native Performance – Optimized for each platform
+
+    Progressive Enhancement – Feature detection and fallbacks
+
+    App Store Excellence – Following all store guidelines
+
+📈 Recent Activity
+<!--START_SECTION:activity--><!--END_SECTION:activity-->
+
+✨ Check my portfolio for detailed project case studies and demos
+📬 Get In Touch
+<div align="center">
+
+https://img.shields.io/badge/%F0%9F%93%A7_Email-blue?style=for-the-badge&logo=gmail&logoColor=white
+https://img.shields.io/badge/%F0%9F%8C%90_Portfolio_Website-000000?style=for-the-badge&logo=vercel&logoColor=white
+https://img.shields.io/badge/%F0%9F%92%BB_GitHub-181717?style=for-the-badge&logo=github&logoColor=white
+https://img.shields.io/badge/%F0%9F%92%BC_LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
+</div><div align="center">
+
+"Transforming ideas into exceptional digital experiences"
+
+⭐ Feel free to star my repositories if you find them useful!
+</div>
