@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=👋+Hi,+I'm+Richard+Munthali" alt="Typing SVG" />
+  <img src="https://img.shields.io/badge/👋_Hi,_I'm_Richard_Munthali-FF6B6B?style=for-the-badge&logo=hand-wave&logoColor=white&labelColor=4ECDC4&color=45B7D1" alt="Waving Hand" />
 </h1>
 
 <h3>💼 Full-Stack Developer | Mobile Developer | ICT Student at Mzuzu University</h3>
