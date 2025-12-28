@@ -29,10 +29,6 @@ I'm passionate about crafting efficient, scalable applications across web and mo
 
     👯 Open to: Collaborating on innovative software projects
 
-    📫 Reach me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-munthali-692880305/)
- | [![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/265880120328)
-
-
     ⚡ Fun fact: I enjoy building efficient systems that solve real-world problems
 
 🚀 Technologies & Skills
