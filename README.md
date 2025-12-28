@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FF0000&center=true&vCenter=true&width=435&lines=👋+Hi,+I'm+Richard+Munthali" alt="Typing SVG" />
-  </a>
+  :wave: <strong>Hi, I'm Richard Munthali</strong> :wave:
 </h1>
 
 <h3>💼 Full-Stack Developer | Mobile Developer | ICT Student at Mzuzu University</h3>
