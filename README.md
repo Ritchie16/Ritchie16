@@ -46,17 +46,7 @@ Cloud & DevOps
 <p> <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> </p>
 Tools & Workflow
 <p> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" /> <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" /> </p>
-## 📊 GitHub Analytics
 
-<div align="center">
-  
-![Richard's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Ritchie16&show_icons=true&theme=radical&hide_border=true&bg_color=00000000&count_private=true&include_all_commits=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Ritchie16&layout=compact&theme=radical&hide_border=true&bg_color=00000000&langs_count=8&exclude_repo=github-readme-stats)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=Ritchie16&theme=radical&hide_border=true&background=00000000)
-
-</div>
 💼 Development Philosophy
 
     Clean Architecture: Building maintainable, scalable applications
@@ -66,14 +56,18 @@ Tools & Workflow
     Continuous Learning: Staying current with emerging technologies
 
     User-Centric Design: Prioritizing intuitive, accessible interfaces
+## 📬 Connect With Me
 
-📬 Connect With Me
 <div align="center">
 
-https://img.shields.io/badge/%F0%9F%8C%90_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white
-https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white
-https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white
-</div><div align="center">
+[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://richardmunthali.vercel.app/)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Ritchie16)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/richard-munthali-692880305/)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/265880120328)
+[![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/richard.munthali.779)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:richardmunthali016@gmail.com)
+
+</div>
 
 "Transforming ideas into efficient digital solutions"
 
