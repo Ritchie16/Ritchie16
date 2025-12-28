@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=45B7D1&center=true&vCenter=true&width=650&height=65&lines=👋+Hi,+I'm+Richard+Munthali" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=32&duration=3000&pause=1000&color=45B7D1&center=false&vCenter=true&width=650&height=65&lines=👋+Hi,+I'm+Richard+Munthali" alt="Typing SVG" />
 </h1>
 
 <h3>💼 Full-Stack Developer | Mobile Developer | ICT Student at Mzuzu University</h3>
