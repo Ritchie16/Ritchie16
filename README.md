@@ -15,9 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">
-  <a href="https://richardmunthali.vercel.app/">
-    <img src="https://img.shields.io/badge/👋_Hi,_I'm_Richard_Munthali-1E90FF?style=for-the-badge&logo=hand-wave&logoColor=white" alt="Waving Hand" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&duration=3000&pause=1000&color=1E90FF&center=true&vCenter=true&width=500&lines=👋+Hi,+I'm+Richard+Munthali" alt="Typing SVG" />
 </h1>
 
 <h3>💼 Full-Stack Developer | Mobile Developer | ICT Student at Mzuzu University</h3>
