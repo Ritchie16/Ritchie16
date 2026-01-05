@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <h3>💼 Full-Stack Developer | Mobile Developer | ICT Student at Mzuzu University</h3>
 
-I'm passionate about crafting efficient, scalable applications across web and mobile platforms. With expertise spanning frontend, backend, and native mobile development, I build solutions that combine technical excellence with intuitive user experiences. <br>
+I'm passionate about crafting efficient, scalable applications across web and mobile platforms. With expertise spanning frontend, backend, and native mobile development, I build solutions that combine technical excellence with intuitive user experiences. <br> <br>
 🌍 Let's Connect!
 
     🌍 Based in: Mzuzu City, Malawi
