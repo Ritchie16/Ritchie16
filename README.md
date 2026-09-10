@@ -18,7 +18,7 @@ Here are some ideas to get you started:
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=32&duration=3000&pause=1000&color=45B7D1&center=true&vCenter=true&width=650&height=65&lines=👋+Hi,+I'm+Richard+Munthali" alt="Typing SVG" />
 </h1>
 
-<h3>💼 Full-Stack Developer | Mobile Developer | Desktop Developer | ICT Student at Mzuzu University</h3>
+<h3>💼 Full-Stack Developer | Mobile & Desktop Developer | ICT Student at Mzuzu University</h3>
 
 I'm passionate about crafting efficient, scalable applications across web and mobile platforms. With expertise spanning frontend, backend, and native mobile development, I build solutions that combine technical excellence with intuitive user experiences. <br> <br>
 🌍 Let's Connect!
